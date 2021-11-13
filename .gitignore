@@ -1,0 +1,6 @@
+*.in
+*.out
+*.txt
+*.json
+/tester/
+/visualizer/
